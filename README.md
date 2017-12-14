@@ -3,7 +3,7 @@
 zdis54
 zd2C03
 zd2C01
-zd2C04inda-->ok
+zd2C04inda
 院田忠雅です。
 既にお腹すきました。
 zd2C02
