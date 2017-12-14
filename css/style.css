@@ -1,1 +1,5 @@
 @charset "UTF-8";
+
+p#build::after {
+    content: url(../images/build.jpg);
+}
